@@ -19,7 +19,7 @@ Este proyecto fue desarrollado como parte del desafío Backend, aplicando princi
 
 ## 🛠️ Tecnologías
 
-- **Java SDK:** (Versión utilizada, ej. 21 o 25 LTS)
+- **Java SDK:** (Versión utilizada, 25 LTS)
 - **Gson:** Librería de Google para deserialización de JSON.
 - **Java HTTP Client:** Para las peticiones web.
 
